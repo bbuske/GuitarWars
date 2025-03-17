@@ -324,4 +324,7 @@ fabric.properties
 
 /composer.phar
 /composer.json
+/composer.lock
 /GuitarWars.iml
+/.idea/
+/vendor/
